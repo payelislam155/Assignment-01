@@ -1,0 +1,296 @@
+/* text button styles */
+.btn{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+/*   web-main-styles-start */
+header{
+    margin-bottom: 74px;
+}
+.web-main-design{
+    background-image: url(/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    width: 1250px;
+    height: 580px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.web-main-design h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 30px;
+    font-weight: 800;
+}
+.web-main-design p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+.web-main-design button{
+    background: rgb(13, 19, 33);
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 15px ;
+    border: none; 
+}
+/* Web Development second styles */
+.web-development-second-container{
+    width: 1040px;
+    height: 1100px;
+    border-radius: 16px;
+    background-color: rgba(245, 245, 220, 0.306);
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
+.web-indoor-text{
+    width: 946px;
+    height: 1233px;
+    margin: 0 auto;
+}
+.web-text{
+    text-align: center;
+    padding: 30px;
+}
+.web-development-second-container h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+}
+.web-development-second-container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+.web-flex{
+    display: flex;
+    justify-content: space-around;
+}
+.web-flex-child{
+    width: 400px;
+    height: 219px;
+}
+.image-flex-child{
+    width: 400px;
+    height: 219px;
+    margin-bottom: 50px;
+}
+.web-development-second-container h1{
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+}
+.web-development-second-container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+.web-development-second-container button{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 8px;
+}
+/* My Inspiration third styles */
+.Inspiration-container{
+    background-color: rgba(245, 245, 220, 0.306);
+    width: 1040px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.Inspiration-container h1{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.Inspiration-container p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 11px;
+    font-weight: 400;
+    margin-bottom: 70px;
+}
+.Inspiration-video iframe{
+    width: 900px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+ /* skills development design */
+ .Three-container-flex{
+    width: 1040px;
+    height: 477px;
+    margin: 0 auto;
+   
+ }
+ .three-flex{
+    height: 100px;
+ }
+.flex-box{
+    display: flex;
+    gap: 20px;
+}
+.first{
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}.second{
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.third{
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.flex-full h2{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 18px;
+    font-weight: 800;
+}
+.flex-full p{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 11px;
+    font-weight: 400;
+}
+.flex-box h5{
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 700;
+}
+.flex-full img{
+    width: 39.68px;
+    height: 40px;
+    padding: 20px;
+    margin-bottom: -20px;
+}
+.flex-full h2,p,h5{
+    margin-top: 10px;
+    margin: 30px;
+}
+.flex-full{
+    width: 346.66px;
+    height: 269px;
+    margin: 0 auto;
+    position: relative;
+}
+/* skills development second design column */
+.box-column{
+    width: 1040px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    display:flex;
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+}
+.flex-1{
+    width: 135px;
+    height: 110px;
+    position: relative;
+    top: 34px;
+    left: 8px;
+}
+.flex-2{
+    width: 1024px;
+    height: 150px;
+}
+.flex-3{
+    width: 1000px;
+    height: 150px;
+    position: relative;
+    left: 20px;
+}
+.flex-3 p{
+    position: relative;
+    top: -20px;
+    left: -30px;
+}
+.flex-3 h4{
+    position: relative;
+    top: -35px;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.flex-2  p{
+    position: relative;
+    left:-30px;
+    top: -25px;
+}
+.img-flex-2 img{
+    width: 20px;
+}
+.flex-2 h4{
+    position: relative;
+    top: -35px;
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+.support-box{
+    width: 1040px;
+    height: 223px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(0,0,0,0.4);
+    background-image: url(/assets/handshake.jpg);
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-size: 1100px 230px;
+    background-blend-mode: overlay;
+    margin-bottom: 40px;
+}
+.support-box h2{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 700;
+}
+.support-box p{
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 10px;
+    font-weight: 400
+}
+.support-box input[type=text]{
+    padding: 10px;
+    width: 30%;
+    border-radius: 8px;
+    border: none;
+}
+.support-box input[type=submit]{
+    padding: 10px;
+    border-radius: 8px;
+    border: none;
+    font-weight: bold;
+}
+.footer-box{
+    background-color: rgba(255, 255, 255, 0.434);
+    width: 1040px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-box h4{
+    position: relative;
+    top: 10px;
+}
+.icon-image img{
+    position: relative;
+    top: 20px;
+}
