@@ -261,6 +261,8 @@ header{
     font-family: Azeret Mono;
     font-size: 32px;
     font-weight: 700;
+    position: relative;
+    top: 10px;
 }
 #support-box p{
     color: rgb(255, 255, 255);
