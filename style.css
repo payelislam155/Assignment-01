@@ -8,7 +8,7 @@ header{
     margin-bottom: 74px;
 }
 .web-main-design{
-    background-image: url(./assets/Hero-bg.png);
+    background-image: url(assets/Hero-bg.png);
     background-repeat: no-repeat;
     width: 1250px;
     height: 580px;
@@ -252,7 +252,7 @@ header{
     margin: 0 auto;
     text-align: center;
     background-color: rgb(0,0,0,0.4);
-    background-image: url(./assets/handshake.jpg);
+    background-image: url(assets/handshake.jpg);
     background-repeat: no-repeat;
     border-radius: 10px;
     background-size: 1100px 254px;
