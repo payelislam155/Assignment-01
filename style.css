@@ -28,10 +28,7 @@ header{
     font-weight: 400;
     margin-bottom: 30px;
 }
-.web-main-design button{
-    border: white;
-}
-.web-main-design button a{
+.web-main-design h3 a{
     background: rgb(24, 237, 9);
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
