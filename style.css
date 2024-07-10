@@ -16,20 +16,23 @@ header{
     margin-bottom: 30px;
 }
 .web-main-design h1{
-    color: rgb(13, 19, 33);
+    color: rgb(6, 72, 224);
     font-family: Azeret Mono;
     font-size: 30px;
     font-weight: 800;
 }
 .web-main-design p{
-    color: rgb(13, 19, 33);
+    color: rgb(0, 0, 0);
     font-family: Azeret Mono;
     font-size: 15px;
     font-weight: 400;
     margin-bottom: 30px;
 }
+.web-main-design button{
+    border: white;
+}
 .web-main-design button a{
-    background: rgb(13, 19, 33);
+    background: rgb(24, 237, 9);
     color: rgb(255, 255, 255);
     font-family: Azeret Mono;
     font-size: 20px;
